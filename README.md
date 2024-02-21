@@ -26,7 +26,7 @@ JavaScript
 - cd belly-button-challenge
 - Open index.html
 - Open index.html in your web browser to view the dashboard.
-# # Features
+## Features
 
 - Horizontal Bar Chart: Displays the top 10 OTUs found in the selected individual.
 - Bubble Chart: Shows each sample with otu_ids, sample_values, and otu_labels.
